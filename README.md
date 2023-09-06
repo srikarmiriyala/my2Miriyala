@@ -29,3 +29,9 @@ In the following section, we will look into four sports that I highly suggest co
 |Martial Arts  | Enhances physical fitness and mental focus| 2-4 hours |
 |Golf          | Improves concentration and patience       | 3-4 hours |
 
+
+-------------------
+## Quotes of scientists
+> "The beauty of science lies in the pursuit of knowledge, for therein lies the endless fascination of discovery." - *C.V. Raman* <br>
+> "Numbers are the poetry of the universe. They have a story to tell, waiting for those who can hear it." - *Srinivasa Ramanujan*
+
