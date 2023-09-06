@@ -35,3 +35,30 @@ In the following section, we will look into four sports that I highly suggest co
 > "The beauty of science lies in the pursuit of knowledge, for therein lies the endless fascination of discovery." - *C.V. Raman* <br>
 > "Numbers are the poetry of the universe. They have a story to tell, waiting for those who can hear it." - *Srinivasa Ramanujan*
 
+-------------------
+# Code Fencing
+
+```
+<form action="do_stuff.aspx" method="post" target="my_iframe">
+  <input type="submit" value="Do Stuff!">
+</form>
+
+<!-- when the form is submitted, the server response will appear in this iframe -->
+<iframe name="my_iframe" src="not_submitted_yet.aspx"></iframe>
+```
+[How do you post to an iframe?](https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe)
+
+```
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+```
+
+[Post Data to an Iframe](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
