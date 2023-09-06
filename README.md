@@ -9,3 +9,8 @@
 1. Jet skiing
 2. Speed boating
 3. Trekking
+- Food items
+    - Brownies
+    - Chicken Biryani
+    - Pasta
+    - Sandwiches
